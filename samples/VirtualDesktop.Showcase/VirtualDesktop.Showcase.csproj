@@ -120,16 +120,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\source\VirtualDesktop.WPF\VirtualDesktop.WPF.csproj">
-      <Project>{9dd597c6-065a-4764-a96c-1b18c4eded78}</Project>
-      <Name>VirtualDesktop.WPF</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\source\VirtualDesktop\VirtualDesktop.csproj">
-      <Project>{ab848ecd-76aa-41c0-b63d-86a8591b25aa}</Project>
-      <Name>VirtualDesktop</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
