@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>VirtualDesktop</id>
+    <version>0.1.0</version>
+    <title>VirtualDesktop</title>
+    <authors>original by @Grabacr07, Jose Fajardo (@josefajardo)</authors>
+    <owners>(@Grabacr07)</owners>
+    <licenseUrl>https://github.com/liquidboy/VirtualDesktop/tree/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/liquidboy/VirtualDesktop</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wrapper for API to Virtual Desktop on Windows 10.</description>
+    <releaseNotes>.NETStandard 2.0 version</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>MVVM</tags>
+  </metadata>
+</package>
